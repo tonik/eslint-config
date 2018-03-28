@@ -5,6 +5,7 @@ module.exports = {
     "sourceType": "module"
   },
   "rules": {
-    "eqeqeq": ["error", "smart"]
+    "eqeqeq": ["error", "smart"],
+    "no-new": "warn"
   }
 }
