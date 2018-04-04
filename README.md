@@ -15,7 +15,7 @@ Shareable configs are designed to work with the `extends` feature of `.eslintrc`
 To use a shareable config, first run this:
 
 ```bash
-npm install --save-dev @tonik/eslint-config eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+npm install --save-dev @tonik/eslint-config eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 ```
 
 Then, add this to your .eslintrc file:
