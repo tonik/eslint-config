@@ -1,6 +1,6 @@
 {
   "name": "@tonik/eslint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A shareable ESlint config for JavaScript used at Tonik",
   "author": "Tonik <hello@tonik.pl> (http://tonik.pl)",
   "license": "MIT",
@@ -39,19 +39,19 @@
     "hint"
   ],
   "devDependencies": {
-    "eslint": "^4.15.0",
-    "eslint-config-standard": "^10.2.1",
+    "eslint": "^5.0.0",
+    "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-node": "^6.0.1",
-    "eslint-plugin-promise": ">=3.5.0",
-    "eslint-plugin-standard": ">=3.0.0"
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.0"
   },
   "peerDependencies": {
-    "eslint": "^4.15.0",
-    "eslint-config-standard": "^10.2.1",
+    "eslint": "^5.0.0",
+    "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-node": "^6.0.1",
-    "eslint-plugin-promise": ">=3.5.0",
-    "eslint-plugin-standard": ">=3.0.0"
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.0"
   }
 }
